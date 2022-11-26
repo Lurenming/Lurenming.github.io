@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇博客文章“</title>
-    <link href="http://example.com/year/11/24/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E2%80%9C/"/>
-    <id>http://example.com/year/11/24/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E2%80%9C/</id>
+    <link href="http://example.com/posts/undefined.html"/>
+    <id>http://example.com/posts/undefined.html</id>
     <published>2022-11-24T08:28:43.000Z</published>
     <updated>2022-11-24T08:37:37.513Z</updated>
     
@@ -44,8 +44,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/year/11/24/hello-world/"/>
-    <id>http://example.com/year/11/24/hello-world/</id>
+    <link href="http://example.com/posts/undefined.html"/>
+    <id>http://example.com/posts/undefined.html</id>
     <published>2022-11-24T08:22:29.152Z</published>
     <updated>1985-10-26T08:15:00.000Z</updated>
     
