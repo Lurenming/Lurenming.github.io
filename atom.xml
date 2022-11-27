@@ -3,11 +3,11 @@
   <title>路人明ing</title>
   <icon>https://www.gravatar.com/avatar/4e6896a558b1bb0d22e5ed6973f1ce82</icon>
   <subtitle>小如路人 也能做出一副大事业</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://lurenming.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://lurenming.github.io/"/>
   <updated>2022-11-24T08:37:37.513Z</updated>
-  <id>http://example.com/</id>
+  <id>https://lurenming.github.io/</id>
   
   <author>
     <name>路人明ing</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇博客文章“</title>
-    <link href="http://example.com/posts/undefined.html"/>
-    <id>http://example.com/posts/undefined.html</id>
+    <link href="https://lurenming.github.io/posts/undefined.html"/>
+    <id>https://lurenming.github.io/posts/undefined.html</id>
     <published>2022-11-24T08:28:43.000Z</published>
     <updated>2022-11-24T08:37:37.513Z</updated>
     
@@ -44,8 +44,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/undefined.html"/>
-    <id>http://example.com/posts/undefined.html</id>
+    <link href="https://lurenming.github.io/posts/undefined.html"/>
+    <id>https://lurenming.github.io/posts/undefined.html</id>
     <published>2022-11-24T08:22:29.152Z</published>
     <updated>1985-10-26T08:15:00.000Z</updated>
     
