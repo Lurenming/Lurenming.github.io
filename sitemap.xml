@@ -19,15 +19,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://lurenming.github.io/posts/undefined.html</loc>
-    
-    <lastmod>1985-10-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://lurenming.github.io/</loc>
@@ -36,6 +27,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://lurenming.github.io/tags/%E9%98%B3%E5%85%89/</loc>
+    <lastmod>2022-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   

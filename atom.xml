@@ -6,7 +6,7 @@
   <link href="https://lurenming.github.io/atom.xml" rel="self"/>
   
   <link href="https://lurenming.github.io/"/>
-  <updated>2022-11-29T09:55:17.917Z</updated>
+  <updated>2022-11-29T14:39:47.715Z</updated>
   <id>https://lurenming.github.io/</id>
   
   <author>
@@ -21,20 +21,20 @@
     <link href="https://lurenming.github.io/posts/undefined.html"/>
     <id>https://lurenming.github.io/posts/undefined.html</id>
     <published>2022-11-29T09:25:10.000Z</published>
-    <updated>2022-11-29T09:55:17.917Z</updated>
+    <updated>2022-11-29T14:39:47.715Z</updated>
     
-    <content type="html"><![CDATA[<p>![]img&#x2F;明天会更好.jpg</p><p><strong>洒满世间的夕阳</strong><br><strong>温暖地照耀四方</strong></p><p><strong>天上璀璨的群星</strong><br><strong>点缀着漆黑的夜空</strong></p><p><strong>我们不必害怕黑暗</strong><br><strong>因为我们相信</strong><br><strong>一定能够等来阳光</strong><br><strong>因为我们相信</strong><br><strong>明天一定会更好！</strong></p><p>熊皓冉<br>2022211321<br>2022211311班</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>洒满世间的夕阳</strong><br><strong>温暖地照耀四方</strong></p><p><strong>天上璀璨的群星</strong><br><strong>点缀着漆黑的夜空</strong></p><p><strong>我们不必害怕黑暗</strong><br><strong>因为我们相信</strong><br><strong>一定能够等来阳光</strong><br><strong>因为我们相信</strong><br><strong>明天一定会更好！</strong></p><p>熊皓冉<br>2022211321<br>2022211311班</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;![]img&amp;#x2F;明天会更好.jpg&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;洒满世间的夕阳&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;温暖地照耀四方&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;天上璀璨的群星&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;点缀着漆黑的夜空&lt;/st</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
       
     
     
     
+    
+    <category term="阳光" scheme="https://lurenming.github.io/tags/%E9%98%B3%E5%85%89/"/>
     
   </entry>
   
@@ -45,38 +45,12 @@
     <published>2022-11-24T08:28:43.000Z</published>
     <updated>2022-11-24T08:37:37.513Z</updated>
     
-    <content type="html"><![CDATA[<p>##第一章</p><p>内容~~~</p><p>##第二章</p><p>~内容~~</p><p>#参考文献</p><p><a href="http://www.bilibili.com/">www.bilibili.com</a></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>##第一章</p><p>内容~~~</p><p>##第二章</p><p>~内容~~</p><p>#参考文献</p><p><a href="http://www.bilibili.com/">www.bilibili.com</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;##第一章&lt;/p&gt;
-&lt;p&gt;内容~~~&lt;/p&gt;
-&lt;p&gt;##第二章&lt;/p&gt;
-&lt;p&gt;~内容~~&lt;/p&gt;
-&lt;p&gt;#参考文献&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.bilibili.com/&quot;&gt;www.bilibili.com&lt;/a&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://lurenming.github.io/posts/undefined.html"/>
-    <id>https://lurenming.github.io/posts/undefined.html</id>
-    <published>2022-11-24T08:22:29.152Z</published>
-    <updated>1985-10-26T08:15:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
       
     
     
