@@ -6,7 +6,7 @@
   <link href="https://lurenming.github.io/atom.xml" rel="self"/>
   
   <link href="https://lurenming.github.io/"/>
-  <updated>2022-11-29T14:39:47.715Z</updated>
+  <updated>2022-12-01T03:53:46.688Z</updated>
   <id>https://lurenming.github.io/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>对于所有博客链接都会指向同一篇文章的解决办法</title>
+    <link href="https://lurenming.github.io/posts/c9cbd3ed.html"/>
+    <id>https://lurenming.github.io/posts/c9cbd3ed.html</id>
+    <published>2022-12-01T03:34:35.000Z</published>
+    <updated>2022-12-01T03:53:46.688Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>12345</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="技术" scheme="https://lurenming.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>相信明天会更好</title>
-    <link href="https://lurenming.github.io/posts/undefined.html"/>
-    <id>https://lurenming.github.io/posts/undefined.html</id>
+    <link href="https://lurenming.github.io/posts/72f562f2.html"/>
+    <id>https://lurenming.github.io/posts/72f562f2.html</id>
     <published>2022-11-29T09:25:10.000Z</published>
-    <updated>2022-11-29T14:39:47.715Z</updated>
+    <updated>2022-12-01T03:27:34.656Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>洒满世间的夕阳</strong><br><strong>温暖地照耀四方</strong></p><p><strong>天上璀璨的群星</strong><br><strong>点缀着漆黑的夜空</strong></p><p><strong>我们不必害怕黑暗</strong><br><strong>因为我们相信</strong><br><strong>一定能够等来阳光</strong><br><strong>因为我们相信</strong><br><strong>明天一定会更好！</strong></p><p>熊皓冉<br>2022211321<br>2022211311班</p>]]></content>
     
@@ -35,26 +57,6 @@
     
     
     <category term="阳光" scheme="https://lurenming.github.io/tags/%E9%98%B3%E5%85%89/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我的第一篇博客文章“</title>
-    <link href="https://lurenming.github.io/posts/undefined.html"/>
-    <id>https://lurenming.github.io/posts/undefined.html</id>
-    <published>2022-11-24T08:28:43.000Z</published>
-    <updated>2022-11-24T08:37:37.513Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>##第一章</p><p>内容~~~</p><p>##第二章</p><p>~内容~~</p><p>#参考文献</p><p><a href="http://www.bilibili.com/">www.bilibili.com</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
     
   </entry>
   
