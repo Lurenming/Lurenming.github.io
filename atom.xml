@@ -6,7 +6,7 @@
   <link href="https://lurenming.github.io/atom.xml" rel="self"/>
   
   <link href="https://lurenming.github.io/"/>
-  <updated>2022-12-04T12:14:31.399Z</updated>
+  <updated>2023-07-08T07:49:10.854Z</updated>
   <id>https://lurenming.github.io/</id>
   
   <author>
@@ -17,13 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>相信明天会更好</title>
+    <title>剪辑</title>
+    <link href="https://lurenming.github.io/posts/c144b0c1.html"/>
+    <id>https://lurenming.github.io/posts/c144b0c1.html</id>
+    <published>2023-03-16T11:10:10.000Z</published>
+    <updated>2023-07-08T07:49:10.854Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>剪辑的重要事项：</strong><br>1.可以通过对音乐增加一些效果：其他乐器、实景音乐、其他音效；</p><p><strong>剪辑的步骤：</strong><br>1.创建项目，设置帧率，调色（达芬奇的特色）</p><p>2.素材导入和整理（达芬奇可以建文件夹）</p><p>可以对素材进行颜色的调整来进行标注。</p><p>做大项目的时候一定注意颜色处理！！！</p><p>3.配乐的选择<br>·网易云的歌单里面容易找</p><p>·不用追求最极致</p><p>·音乐可以进行一点处理</p><p>·搜索风格</p><p>·可以在B站上搜索一些UP主</p><p>4.剪辑方法<br>·可以分章节，然后增加一些过渡</p><p>5。音效处理<br>·音效分为上升音效和下降音效</p><p>·音效可以集中观众的注意力</p><p>·音效可以渲染氛围</p><p>·可以专门收集一些音效，上网可以搜到（包图网、爱给网、耳聆网）</p><p>·b站的百万剪辑狮的视频对音效处理很好！</p><p>6.视频节奏处理<br>（他用了一个HantaoTB的视频做参考）</p><p>7.动效处理<br>·需要用到AE来进行处理</p><p>·你可以截取一小段</p><p>·B站有个UP：GenJi</p><p>·可以新建合成，放入图片视频，对文字进行处理</p><p>·模板在哪找：VJ师网<br>素材可改性高！</p><p>8.调色<br>·通过节点来处理</p><p>·需要处理HSL（色相、饱和度、亮度）</p><p>9·画面优化<br>噪点过多、画面不稳定等问题（透视、相似度等）</p><p>每个拖一点来解决噪点问题</p><p>10.结尾（定版、人员名单）<br>有模板，在AE里面调整</p><p>某一部分有哪些人</p><p>变化非常大的时候就用avi输出再用MP4压缩</p><p>11.字幕<br>用剪映可以识别字幕，再用微信的小程序拿出来</p><p>12.延时摄影<br>把照片拖进去可以直接生成一个序列就是延时摄影了</p><p>·媒体池-&gt;导入媒体</p><p><strong>做剪辑最好的方法是什么？抄！！！</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="剪辑相关" scheme="https://lurenming.github.io/tags/%E5%89%AA%E8%BE%91%E7%9B%B8%E5%85%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>相信明天会更好-我的第一篇博客</title>
     <link href="https://lurenming.github.io/posts/72f562f2.html"/>
     <id>https://lurenming.github.io/posts/72f562f2.html</id>
     <published>2022-11-29T09:25:10.000Z</published>
-    <updated>2022-12-04T12:14:31.399Z</updated>
+    <updated>2023-07-13T12:49:08.440Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="/img/betterday.jpg" alt="background"></p><p><strong>洒满世间的夕阳</strong><br><strong>温暖地照耀四方</strong></p><p><strong>天上璀璨的群星</strong><br><strong>点缀着漆黑的夜空</strong></p><p><strong>我们不必害怕黑暗</strong><br><strong>因为我们相信</strong><br><strong>一定能够等来阳光</strong><br><strong>因为我们相信</strong><br><strong>明天一定会更好！</strong></p><p>熊皓冉<br>2022211321<br>黄旭<br>2022211308</p><p>2022211311班</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="/../img/betterday.jpg"></p><p><strong>洒满世间的夕阳</strong><br><strong>温暖地照耀四方</strong>  </p><p><strong>天上璀璨的群星</strong><br><strong>点缀着漆黑的夜空</strong>  </p><p><strong>我们不必害怕黑暗</strong><br><strong>因为我们相信</strong><br><strong>一定能够等来阳光</strong><br><strong>因为我们相信</strong><br><strong>明天一定会更好！</strong></p><p>熊皓冉<br>2022211321<br>2022211311班</p>]]></content>
     
     
       
